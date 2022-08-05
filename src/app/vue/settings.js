@@ -1,3 +1,3 @@
 export const settings = {
-  authhost: process.env.BACKEND_URL
+  authhost: "https://imgbot-api.klexhub.com"
 }
